@@ -1,0 +1,19 @@
+{
+  "name": "node-server-practice",
+  "version": "1.0.0",
+  "description": "node practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinGill21/Node-Server-Practice.git"
+  },
+  "author": "Lindsay Gillespie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinGill21/Node-Server-Practice/issues"
+  },
+  "homepage": "https://github.com/LinGill21/Node-Server-Practice#readme"
+}
